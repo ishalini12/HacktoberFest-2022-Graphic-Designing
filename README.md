@@ -9,8 +9,13 @@
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
 ### Goal of this repository
+Contributing to Open Source isn't just for Technical Folks who want to write Code. There are lots of opportunities to use your professional skills in support of Open-Source Projects. This year, Hacktobefest is making a point to encourage contributions that require some technical experience or none at all. No matter your experience, you can participate in Hacktoberfest!
 
+Hacktoberfest welcomes people of any experience level to participate, and Low-Code and Non-Code Contributions are fantastic choices for folks who don't have a lot of Technical Knowledge.
 
+This repository is based on the Graphic Desgning, We encourage students to design the Posts on the themes that we have given and make a PR for that in the respective folder of the themes. Make sure to add GDSC CEC Logo and social handles of GDSC CEC in your designs to make your contributions eligible for our repo.
+
+A sample image is given in the repository which helps you to understand the basic structure of the post that you have to design.
 
 
 ### Contributing
