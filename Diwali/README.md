@@ -14,5 +14,5 @@ In this repository, you have to design a post on Diwali for the GDSC CEC.
 ## Important Points while making a Pull Request
 - Your post should be in JPG Format only.
 - You have to name your post in the following format:
- `Your_Github_Username.jpg`
- (eg. ShaileshKumar007.jpg)
+ `YourGithubUsername_Diwali.jpg`
+ (eg. ShaileshKumar007_Diwali.jpg)
