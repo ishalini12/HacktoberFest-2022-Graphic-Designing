@@ -16,3 +16,17 @@ In this repository, you have to design a post on Diwali for the GDSC CEC.
 - You have to name your post in the following format:
  `YourGithubUsername_Diwali.jpg`
  (eg. ShaileshKumar007_Diwali.jpg)
+ 
+ ## Acknowledgments
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [GitHub](https://github.com)
+- [Git](https://git-scm.com/)
+
+## Maintainer
+- [Shailesh](https://github.com/ShaileshKumar007)
+
+## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
+
+## Happy Coding! :smile:
+
