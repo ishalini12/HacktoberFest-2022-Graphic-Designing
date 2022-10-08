@@ -17,3 +17,16 @@ In this repository, you have to design a post on New Year's Eve for the GDSC CEC
 - You have to name your post in the following format:
  `YourGithubUsername_Christmas.jpg`
  (eg. ShaileshKumar007_Christmas.jpg)
+
+## Acknowledgments
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [GitHub](https://github.com)
+- [Git](https://git-scm.com/)
+
+## Maintainer
+- [Shailesh](https://github.com/ShaileshKumar007)
+
+## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
+
+## Happy Coding! :smile:
